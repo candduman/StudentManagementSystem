@@ -1,0 +1,6 @@
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\hazal\OneDrive\Masaüstü\icon\ProjectManagment-master (2)\ProjectManagment-master\EntityLayer\obj\Debug\EntityLayer.pdb
